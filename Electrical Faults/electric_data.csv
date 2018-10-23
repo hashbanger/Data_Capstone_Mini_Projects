@@ -1,0 +1,13 @@
+date_of_trip,time_of_trip,weather,other_circuit,line_trip,load_of_line,voltage,frequency,other_line_status,date of restoration,time_of_restoration,observation,repair_carried,tripping_reason
+08-11-2017,05:39,cloudy,healthy,yes,71,237,49.87,,08-11-2017,07:50,,nil,bad weather
+10-05-2017,15:56,cloudy,healthy,yes,187,220,49.98,,10-05-2017,16:34,,nil,transient fault
+11-10-2017,12:35,clear,healthy,yes,124,229,49.94,,11-10-2017,13:45,,nil,foreign element
+18-06-2017,05:37,clear,healthy,yes,105,228,50.01,,18-06-2017,06:17,,nil,foreign element
+19-06-2017,06:30,rainy,healthy,yes,102,229,50.05,,19-06-2017,07:18,disc puncture,feeder isolated,transient fault
+20-06-2017,17:04,cloudy,healthy,no,137,221,50.03,,20-06-2017,17:10,relay burnt,relay removed,relay burn
+24-07-2017,11:32,cloudy,healthy,yes,173,220,49.98,,24-07-2017,12:07,,nil,transient fault
+29-06-2017,13:51,cloudy,healthy,yes,180,227,50.03,,29-06-2017,14:39,,nil,foreign element
+31-12-2017,07:38,foggy,healthy,yes,67,235,50.06,,31-12-2017,09:26,,nil,bad weather
+11-06-2017,03:49,clear,healthy,no,146,232,50.01,,11-06-2017,04:20,,fuse,fuse failure
+11-06-2017,05:39,clear,healthy,no,135,233,49.98,,11-06-2017,09:10,,fuse,fuse failure
+10-06-2017,07:30,clear,healthy,no,122,231,50.03,,10-06-2017,08:14,,nil,fuse failure
