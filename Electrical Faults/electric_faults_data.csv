@@ -1,0 +1,39 @@
+﻿date_of_trip,time_of_trip,weather,other_circuit,line_trip,load_of_line,voltage,frequency,other_line_status,date of restoration,time_of_restoration,observation,repair_carried,tripping_reason,type_of_fault,nature
+08-11-2017,05:39,cloudy,healthy,yes,71,237,49.87,,08-11-2017,07:50,,nil,bad weather,low,ABC
+10-05-2017,15:56,cloudy,healthy,yes,187,220,49.98,,10-05-2017,16:34,,nil,transient fault,high,ABC
+11-10-2017,12:35,clear,healthy,yes,124,229,49.94,,11-10-2017,13:45,,nil,foreign element,medium,ABC
+18-06-2017,05:37,clear,healthy,yes,105,228,50.01,,18-06-2017,06:17,,nil,foreign element,medium,ABC
+19-06-2017,06:30,rainy,healthy,yes,102,229,50.05,,19-06-2017,07:18,disc puncture,feeder isolated,transient fault,medium,ABC
+20-06-2017,17:04,cloudy,healthy,no,137,221,50.03,,20-06-2017,17:10,relay burnt,relay removed,relay burn,medium,ABC
+24-07-2017,11:32,cloudy,healthy,yes,173,220,49.98,,24-07-2017,12:07,,nil,transient fault,high,ABC
+29-06-2017,13:51,cloudy,healthy,yes,180,227,50.03,,29-06-2017,14:39,,nil,foreign element,high,ABC
+31-12-2017,07:38,foggy,healthy,yes,67,235,50.06,,31-12-2017,09:26,,nil,bad weather,low,ABC
+11-06-2017,03:49,clear,healthy,no,146,232,50.01,,11-06-2017,04:20,,fuse,fuse failure,medium,ABC
+11-06-2017,05:39,clear,healthy,no,135,233,49.98,,11-06-2017,09:10,,fuse,fuse failure,medium,ABC
+10-06-2017,07:30,clear,healthy,no,122,231,50.03,,10-06-2017,08:14,,nil,fuse failure,medium,ABC
+04-04-2014,07:40,clear,,yes,140,230,50.06,,04-04-2014,11:32,,,earth fault,medium,CG
+30-05-2014,16:52,cloudy,healthy,no,230,226,50,,30-05-2014,18:11,,,earth fault,high,ABC
+28-07-2014,18:22,cloudy,healthy,yes,155,229,49.91,,28-07-2014,19:00,,,transient fault,high,ABC
+27-06-2014,19:25,clear,healthy,no,215,223,49.85,,27-06-2016,19:29,,,transient fault,high,CG
+26-07-2014,18:45,semi cloudy,healthy,yes,195,225,49.94,,26-07-2014,21:09,,,transient fault,high,ABC
+24-01-2016,08:25,foggy,healthy,yes,76,235,49.94,,24-01-2016,09:28,,phase disc replaced,bad weather,low,ABC
+23-05-2016,21:40,rainy,healthy,no,103,236,50.03,,14-05-2016,10:34,air leakage,leakage attended,breaker opened,medium,ABC
+23-04-2016,13:53,clear,healthy,yes,114,235,50.16,,23-04-2016,14:59,,,transient fault,medium,ABC
+22-01-2016,03:39,foggy,healthy,yes,50,244,50.06,,22-01-2016,17:52,,phase disc replaced,bad weather,low,ABC
+22-01-2016,04:32,foggy,healthy,yes,94,244,50.06,,22-01-2016,17:51,,phase disc replaced,bad weather,low,ABC
+19-06-2015,08:51,clear,healthy,yes,126,224,50.03,,19-06-2015,09:53,,,wire fallen,medium,ABC
+19-05-2015,16:58,storm,healthy,yes,124,230,50.15,,19-05-2015,17:51,,,,medium,ABC
+19-01-2016,02:19,foggy,healthy,yes,55,242,50.02,,19-01-2016,03:10,,,bad weather,low,ABC
+16-10-2016,16:34,clear,healthy,yes,122,229,50.08,,16-10-2016,13:58,,,transient fault,medium,ABC
+15-01-2016,04:32,foggy,healthy,yes,63,238,50.03,,15-01-2016,05:26,,,bad weather,low,ABC
+14-12-2014,16:09,rainy,healthy,yes,102,238,50.13,,14-12-2014,18:01,,,bad weather,medium,ABC
+12-09-2015,14:20,clear,healthy,yes,163,218,49.77,,12-09-2015,15:06,,,transient fault,high,ABC
+23-05-2016,21:40,rainy,healthy,no,103,236,50.03,,24-05-2016,10:34,,leakage attended,breaker opened,medium,ABC
+08-08-2016,19:31,clear,healthy,yes,153,224,43.92,,08-08-2016,20:34,,,trip from kite,high,ABC
+08-01-2016,04:06,foggy,healthy,yes,50,242,50.06,,08-01-2016,11:24,,,bad weather,low,ABC
+08-01-2016,04:15,foggy,healthy,yes,50,242,50.09,,08-01-2016,11:18,,,bad weather,low,ABC
+07-08-2016,17:52,clear,healthy,yes,155,227,50.04,,07-08-2016,19:33,,,trip from kite,high,ABC
+06-10-2014,09:29,clear,healthy,yes,119,225,50.03,,06-10-2014,10:59,,,foreign element,medium,ABC
+05-11-2016,13:02,foggy,healthy,yes,99,224,49.98,,05-11-2016,14:14,,,transient fault,low,ABC
+04-04-2015,09:37,rainy,healthy,no,111,240,50.05,,04-04-2015,11:32,moisture,,relay burn,medium,ABC
+03-05-2016,17:32,clear,healthy,yes,167,230,50.01,,03-05-2016,18:19,,,transient fault,high,ABC
